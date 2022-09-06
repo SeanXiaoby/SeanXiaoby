@@ -17,8 +17,8 @@
 ### 💻 Skills
 
 - **C/C++** (Damn I am good at this one)
-- **Front-end**: HTML/CSS/JS, React
-- **Back-end**: Flask, Angular
+- **Front-end**: HTML/CSS/JS, React, Angular
+- **Back-end**: Flask
 - **MATLAB**: I literally did a lot of projects using MATLAB, including DSP, Deep Learning and Image processing.
 - **Python**: I mainly use this cutee friendly language to do Deep Learning and Backend.
 - **Swift**: IOS development.
@@ -29,7 +29,7 @@
 #### Softwares/Projects
 - [Web Dev](https://github.com/SeanXiaoby/SeanXiaoby.github.io): Front-end trio：HTML/CSS/JS, Flask-based web deployment, MongoDB
 - [Trojan Map](https://github.com/SeanXiaoby/TrojanMap_Sean): Graphs, Path searching, Travelling Salesman, Topological Sorting... 
-- [IOS album app](https://github.com/SeanXiaoby/SeanXiaoby.github.io/tree/main/hw04/Album571): Developen on XCODE, using Swift, [Video pre](https://drive.google.com/file/d/1khlY91QpYhMd_BoUuPWH6yPFgX1m6HBT/view?usp=sharing
+- [IOS album app](https://github.com/SeanXiaoby/SeanXiaoby.github.io/tree/main/hw04/Album571): Developed on XCode, using Swift, [Video pre](https://drive.google.com/file/d/1khlY91QpYhMd_BoUuPWH6yPFgX1m6HBT/view?usp=sharing
 )
 - [Image Processing Projects](https://github.com/SeanXiaoby/EE569_USC_2022spring): Main image processing algorithms and Deep learning, CNN, Green learning...
 
