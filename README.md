@@ -36,6 +36,7 @@
 #### Study Notes
 - [Leetcode Notes](https://github.com/SeanXiaoby/Leetcode_Notebook_Sean): Leetcode solutions, Basic algorithms, Fancy algorithms, sorted by basic data-structures.
 - [Algorithm Anaysis notes](https://github.com/SeanXiaoby/csci570_notes_22fall): USC CSCI-570 2022 fall course notes.
+- [Building a network model on AWS](https://seanxiaoby.github.io/Other/EE542OpenFiles/lab02/index.html): Creating AWS VPC, instances and building a Server-Router-Client model on AWS servers
 
 #### More still under constructions...🧑‍💻
 
