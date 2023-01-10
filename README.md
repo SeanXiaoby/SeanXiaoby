@@ -27,8 +27,10 @@
 ### 🤖 Open-source codes
 
 #### Softwares/Projects
+- [IoT-based Tracking System](https://github.com/SeanXiaoby/ee542_projects/tree/main/Final%20Project)
 - [Web Dev](https://github.com/SeanXiaoby/SeanXiaoby.github.io): Front-end trio：HTML/CSS/JS, Flask-based web deployment, MongoDB
 - [Trojan Map](https://github.com/SeanXiaoby/TrojanMap_Sean): Graphs, Path searching, Travelling Salesman, Topological Sorting... 
+- [DNA Sequence Alignment Algorithm](https://github.com/SeanXiaoby/csci570_finalProj)
 - [IOS album app](https://github.com/SeanXiaoby/SeanXiaoby.github.io/tree/main/hw04/Album571): Developed on XCode, using Swift, [Video pre](https://drive.google.com/file/d/1khlY91QpYhMd_BoUuPWH6yPFgX1m6HBT/view?usp=sharing
 )
 - [Image Processing Projects](https://github.com/SeanXiaoby/EE569_USC_2022spring): Main image processing algorithms and Deep learning, CNN, Green learning...
