@@ -4,7 +4,7 @@
 
 <img src = "src/usc.gif" width = 100%>
 
-⭐ This is **Boyang Xiao (/ˈʃaʊ/)**, you can also call me **Sean**. I am now a graduate student focused on Electrical Engineering & Computer Science in [University of Southern California](https://viterbischool.usc.edu/). This is my Github homepage to accomadate my **Course projects/ Individual projects/ Study notes**.
+⭐ This is **Boyang Xiao `(/ˈʃaʊ/)`**, you can also call me **Sean**. I am now a graduate student focused on Electrical Engineering & Computer Science in [University of Southern California](https://viterbischool.usc.edu/). This is my Github homepage to accomadate my **Course projects/ Individual projects/ Study notes**.
 
 🏫 Before USC, I got my Bachelor degree of Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in Tianjin, China. I was then majored in Optic-elctrical Information Engineering.
 
