@@ -16,9 +16,12 @@
 
 ### 💻 Skills
 
-- **C/C++** (Damn I am good at this one)
-- **Front-end**: HTML/CSS/JS, React, Angular
+- **Programming languages**: **C/C++**, **Node.js**, Python3, MATLAB Javascript, HTML/CSS, SQL
+- **Front-end**: **React.js**, **Express**, Webpack, Vite
 - **Back-end**: Flask
+- **Database**: **MySQL**, **MongoDB**, DynamnoDB
+- **Linux**: Except for daily development on Linux, I had a project which modified the Ubuntu kernel (TCP protocol part) and comiled it
+- **Dev/Ops**: **AWS**, GCP, **Docker**, Huawei Cloud Services
 - **MATLAB**: I literally did a lot of projects using MATLAB, including DSP, Deep Learning and Image processing.
 - **Python**: I mainly use this cutee friendly language to do Deep Learning and Backend.
 - **Swift**: IOS development.
@@ -27,9 +30,11 @@
 ### 🤖 Open-source codes
 
 #### Softwares/Projects
+
+- [**React.js Development**](https://github.com/SeanXiaoby/react-learning-udemy): React18, Vite, Node.js, Webpack, HTML/CSS...
+- [**Trojan Map**](https://github.com/SeanXiaoby/TrojanMap_Sean): Graphs, Path searching, Travelling Salesman, Topological Sorting...
 - [IoT-based Tracking System](https://github.com/SeanXiaoby/ee542_projects/tree/main/Final%20Project): Flask-based Web app, GoogleMap component, IoT interactions, DynamoDB
-- [Web Dev](https://github.com/SeanXiaoby/SeanXiaoby.github.io): Front-end trio：HTML/CSS/JS, Flask-based web deployment, MongoDB
-- [Trojan Map](https://github.com/SeanXiaoby/TrojanMap_Sean): Graphs, Path searching, Travelling Salesman, Topological Sorting... 
+- [Web Dev](https://github.com/SeanXiaoby/SeanXiaoby.github.io): Front-end trio：HTML/CSS/JS, Flask-based web deployment, MongoDB 
 - [DNA Sequence Alignment Algorithm](https://github.com/SeanXiaoby/csci570_finalProj): C++ dev, Object oriented designing, DP algorithm
 - [IOS album app](https://github.com/SeanXiaoby/SeanXiaoby.github.io/tree/main/hw04/Album571): Developed on XCode, using Swift, [Video pre](https://drive.google.com/file/d/1khlY91QpYhMd_BoUuPWH6yPFgX1m6HBT/view?usp=sharing
 )
