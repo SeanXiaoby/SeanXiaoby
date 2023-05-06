@@ -14,18 +14,23 @@
 
 ---
 
+### 🔗 Live sites & products
+
+- [Phostgram web app](https://phostgram.netlify.app/)
+- [Player League Management Microservices](https://player-league.onrender.com/)
+
 ### 💻 Skills
 
-- **Programming languages**: **C/C++**, **Node.js**, Python3, MATLAB Javascript, HTML/CSS, SQL
-- **Front-end**: **React.js**, **Express**, Webpack, Vite
-- **Back-end**: Flask
+- **Programming languages**: **C/C++**, **Javascript**, Python3, MATLAB Javascript, HTML/CSS, SQL
+- **Front-end**: **React.js**, Vite
+- **Back-end**: **Express**, REST APIs, Webpack, Flask
 - **Database**: **MySQL**, **MongoDB**, DynamnoDB
 - **Linux**: Except for daily development on Linux, I had a project which modified the Ubuntu kernel (TCP protocol part) and comiled it
-- **Dev/Ops**: **AWS**, GCP, **Docker**, Huawei Cloud Services
-- **MATLAB**: I literally did a lot of projects using MATLAB, including DSP, Deep Learning and Image processing.
-- **Python**: I mainly use this cutee friendly language to do Deep Learning and Backend.
+- **Dev/Ops**: **AWS**, GCP, **Docker**, Netlify, Render, Heroku
+- **MATLAB**: DSP, Deep Learning and Image processing.
+- **Python**: Pytorch, Backend dev
 - **Swift**: IOS development.
-- **Music/Guitar(?)**: Seems that every SDE can play some music huh?😄 [Learn more](https://space.bilibili.com/10050963).
+- **Music/Guitar(?)**: Seems that every SDE can play some music huh?😄 [Listen](https://space.bilibili.com/10050963).
 
 ### 🤖 Open-source codes
 
@@ -43,6 +48,8 @@
 - [Image Processing Projects](https://github.com/SeanXiaoby/EE569_USC_2022spring): Main image processing algorithms and Deep learning, CNN, Green learning...
 
 #### Study Notes
+- [MongoDB notes] (https://github.com/SeanXiaoby/mongodb-notes)
+- [Git operations] (https://github.com/SeanXiaoby/git-workflow)
 - [Leetcode Notes](https://github.com/SeanXiaoby/Leetcode_Notebook_Sean): Leetcode solutions, Basic algorithms, Fancy algorithms, sorted by basic data-structures.
 - [Algorithm Anaysis notes](https://github.com/SeanXiaoby/csci570_notes_22fall): USC CSCI-570 2022 fall course notes.
 - [Building a network model on AWS](https://seanxiaoby.github.io/Other/EE542OpenFiles/lab02/index.html): Creating AWS VPC, instances and building a Server-Router-Client model on AWS servers
