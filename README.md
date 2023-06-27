@@ -6,11 +6,11 @@
 
 ⭐ This is **Boyang Xiao `(/ˈʃaʊ/)`**, you can also call me **Sean**. I am now a graduate student focused on Electrical & Computer Engineering in [University of Southern California](https://viterbischool.usc.edu/). This is my Github homepage to accomadate my **Course projects/ Individual projects/ Study notes**.
 
-🏫 Before USC, I got my Bachelor degree of Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in Tianjin, China. I was then majored in Optic-elctrical Information Engineering.
+🏫 Before USC, I got my Bachelor degree of Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in Tianjin, China. I was then majored in Optic-elctrical Information Engineering. After graduating from TJU, I had been working an Software Devlopment Engineer in [Wuhan HGLaser Engineering Co.,Ltd](https://www.hgtech-laser.com/about-us). It was actually a fun job. My co-workers and I collaborated to build a computer-aided manufacturing(CAM) software using C++ on Windows
 
-🧑‍💻 I had been working as an Software Devlopment Engineer in [Wuhan HGLaser Engineering Co.,Ltd](https://www.hgtech-laser.com/about-us). It was actually a fun job. My co-workers and I collaborated to build a computer-aided manufacturing(CAM) software using C++ on Windows, which can be used to read CAD drawing files, to modify the drawing contents and to control the LASER and the galvanometer to work according to the drawing files.
+🧑‍💻 Right now, I am working with [DeepUSC Research Group](https://deep.usc.edu) in USC as a Software Engineer, where I am a part of the projects for some real cool web applications for Machine Learning research! Oops... I can't tell more about it! But you can look forward to our products very soon!
 
-🌐 Right now, I am working with full-stack web developments. I have actually developed some quite interesting apps that you can find links below. The main techniques I use are React.js, Express.js, Vite, Webpack and MongoDB. RESTful APIs are my major styles but I also switch to GraphQL if I am in a right mood😄 Please check out my repos and make your contributions if you find them interesting too!!
+🌐 My interests mainly focus on full-stack web developments. I have actually developed some quite interesting apps that you can find links below. The main techniques I use are React.js, Express.js, Vite, Webpack and MongoDB. RESTful APIs are my major styles but I also switch to GraphQL if I am in a right mood😄 Please check out my repos and make your contributions if you find them interesting too!!
 
 👋 Anyway, it's a great pleasure that you clicked in my profiles. I'm Sean and nice to meet you!
 
@@ -23,6 +23,8 @@
 
 - [Phostgram web app](https://phostgram.netlify.app/)
 - [Player League Management Microservices](https://player-league.onrender.com/)
+- [DeepUSC Research Group homepage](https://deep.usc.edu)
+- [Google Clone](https://gooloogooloo.netlify.app)
 
 ### 💻 Skills
 
