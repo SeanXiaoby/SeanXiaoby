@@ -24,7 +24,7 @@
 - [ABLATOR Homepage](https://ablator.org)
 - [Phostgram web app](https://phostgram.netlify.app/)
 - [Player League Management Microservices](https://player-league.onrender.com/)
-- [DeepUSC Research Group homepage](https://deep.usc.edu)
+- [DeepUSC Research Group homepage](https://deep-usc.org)
 - [Google Clone](https://gooloogooloo.netlify.app)
 
 ### 💻 Skills
